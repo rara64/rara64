@@ -1,5 +1,5 @@
 # Hello there 👋
-I'm ![**Rafał**]() and I do stuff with software and electronics (#RightToRepair).
+I'm [**Rafał**]() and I do stuff with software and electronics (#RightToRepair).
 
 #### Here's what I use
 <div>
