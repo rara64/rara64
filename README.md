@@ -1,7 +1,7 @@
 # Hello there 👋
-I'm [**Rafał**]() and I do stuff with software and electronics (#RightToRepair).
-
-#### Here's what I use
+I'm [**Rafał**](https://github.com/rara64/) and I do stuff with software and electronics (#RightToRepair).
+<br><br>
+<i>Here's what I use</i>
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height=32px>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height=32px>
@@ -13,5 +13,5 @@ I'm [**Rafał**]() and I do stuff with software and electronics (#RightToRepair)
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height=32px>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height=32px>
 </div>
-
-#### Check out my projects below :)
+<br>
+<i>Check out my projects below :)</i>
